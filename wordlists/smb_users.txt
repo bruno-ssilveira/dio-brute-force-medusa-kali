@@ -1,0 +1,12 @@
+msfadmin
+user
+postgres
+service
+games
+nobody
+bind
+proxy
+syslog
+klog
+www-data
+root
